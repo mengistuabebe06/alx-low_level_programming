@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * hello c 
+ */
+
 int main(void)
 {
 	printf("Size of a char: %i byte(s)\n", (int) sizeof(char));
