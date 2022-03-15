@@ -17,8 +17,7 @@ int main(void)
 		if (c % 3 == 0 || c % 5 == 0)
 		{
 			sum += c;
-		}
-		
+		}	
 		c++;
 	}
 	printf("%i\n", sum);
